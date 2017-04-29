@@ -1,0 +1,37 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <!-- std-startup.xml -->
+
+    <!-- Category is an atomic AIML unit -->
+    <category>
+
+        <!-- Pattern to match in user input -->
+        <!-- If user enters "LOAD AIML B" -->
+        <pattern>LOAD AIML B</pattern>
+
+        <!-- Template is the response to the pattern -->
+        <!-- This learn an aiml file -->
+        <template>
+            <learn>basic.aiml</learn>
+            <learn>ai.aiml</learn>
+			<learn>alice.aiml</learn>
+			<learn>android.aiml</learn>
+			<learn>astrology.aiml</learn>
+			<learn>atomic.aiml</learn>
+			<learn>badanswer.aiml</learn>
+			<learn>biography.aiml</learn>
+			<learn>biography.aiml</learn>
+			<learn>bot.aiml</learn>
+			<learn>bot_profile.aiml</learn>
+			<learn>client.aiml</learn>
+			<learn>client_profile.aiml</learn>
+			<learn>computers.aiml</learn>
+			<learn>date.aiml</learn>
+			<learn>default.aiml</learn>
+			<learn>drugs.aiml</learn>
+			<learn>continuation.aiml</learn>
+			<learn>emotion.aiml</learn>
+        </template>
+        
+    </category>
+
+</aiml>
