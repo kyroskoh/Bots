@@ -1,2 +1,7 @@
 # Bots
-AI bots | Twitter Bot | Reddit Bot | Telegram Bot | Slack Bot
+
+- AI bot
+- Twitter Bot 
+- Reddit Bot
+- Telegram Bot
+- Slack Bot
